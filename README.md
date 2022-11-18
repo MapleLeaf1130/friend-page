@@ -1,2 +1,1 @@
-# friend-page
-Page with friends
+# MapleLeafFriends.github.io
